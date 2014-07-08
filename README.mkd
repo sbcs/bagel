@@ -1,4 +1,9 @@
- some markdown
+Introduction to tasyness
  -------------
 
- * this nice markup language
+ * tasy is not a typo.
+ * How is babby formed, anyway?
+ * Can you smell what the rock is cooking?
+ * DO A BARRELL ROLLL!!
+ 
+ All these questions and more NEXT TIME ON DRAGON BALL!
